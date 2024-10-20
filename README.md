@@ -1,7 +1,7 @@
 - 👋 Hi, I’m L.Turtle
 - 👀 I’m interested in coding, musical and rhythm game (Muse Dash)
 - 🌱 I’m currently learning college
-- 💞️ I’m looking to collaborate on java and python
+- 💞️ I’m looking to collaborate on sql and python
 - 📫 How to reach me tranvuminh2905@gmail.com
 
 <!---
